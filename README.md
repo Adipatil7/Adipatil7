@@ -86,7 +86,3 @@ I build **end-to-end scalable applications** — from intuitive frontend experie
 
 ---
 
-## 👀 Profile Views
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=Adipatil7&icon=5&color=6" />
-</div>
