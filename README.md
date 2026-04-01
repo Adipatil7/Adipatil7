@@ -31,7 +31,7 @@ I build **end-to-end scalable applications** — from intuitive frontend experie
 ## 💬 Ask Me About
 - Java & Spring Boot  
 - REST APIs & Microservices Architecture  
-- React / Next.js  
+- Next.js  
 - Databases & Backend Design  
 - System Design & Real-world Projects  
 
